@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-katsumata-spiller-7054a1208/)
 
-![Status do perfil](https://github-readme-stats.vercel.app/api?username=LucaSSpiller&show_icons=true&theme=radical)
+![Status do perfil](https://github-readme-stats.vercel.app/api?username=LucaSSpiller&show_icons=true&theme=dark)
 
 ## Tecnologias que eu utilizo
 
