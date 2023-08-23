@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luca Katsumata Spiller✌️
 #### Buscando evolução acadêmica e profissional📖
 #### Cursando Tecnólogo de Análise e Desenvolvimento de Sistemas, FIAP
-#### Estudando #, C++ com Arduino, Java, Spring, JPA-Hibernate, Python, JS, React Native, IA-Aprendizado de máquinas, Power BI, SQL, Kotlin🤓<br>
+#### Estudando C#, C++ com Arduino, Java, Spring, JPA-Hibernate, Python, JS, React Native, IA-Aprendizado de máquinas, Power BI, SQL, Kotlin🤓<br>
 
 ## Acesse meu LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-katsumata-spiller-7054a1208/)<br>
