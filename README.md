@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luca K. Spiller✌️
+## Olá! Eu sou o Luca Katsumata Spiller✌️
 #### Buscando evolução acadêmica e profissional📖
 #### Cursando Tecnólogo de Análise e Desenvolvimento de Sistemas, FIAP
 #### Estudando Java, Spring, JPA-Hibernate, Python, JS, React Native, IA-Aprendizado de máquinas, Power BI, SQL🤓<br>
