@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Luca Katsumata Spiller
 #### Buscando evolução acadêmica e profissional📖
+#### Pós Tech - IA para Devs - FIAP
 #### Análise e Desenvolvimento de Sistema - FIAP
 #### Estudando ADVPL, Python, SQL e Inglês<br>
 
